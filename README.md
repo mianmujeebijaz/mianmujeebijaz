@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, This is Me Main Mujeeb 👋
 
-<!--
-**mianmujeebijaz/mianmujeebijaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Main **AI ki madad se websites ke designs** banata hoon. Mera maqsad ek achha aur professional online look dena hai.
 
-Here are some ideas to get you started:
+## 🎨 What I Do
+- AI tools se website designs banana
+- Online store aur business websites ke concepts
+- Clean aur user-friendly layouts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛒 My Work
+**[CaseHub.pk](https://casehub.pk)** – Mobile accessories store in Pakistan
+- Cases, tempered glass, chargers aur power banks
+- Cash on Delivery aur nationwide delivery
+
+## 📫 Contact
+- Email: mianmujeebijaz@gmail.com
+- WhatsApp: *03276555567*
